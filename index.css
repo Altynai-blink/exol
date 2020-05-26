@@ -1,0 +1,41 @@
+
+.podval{
+	text-align: center;
+	bottom: 50px;
+	font-size:15pt;
+	font-family:Lucida Bright;
+	color:#3b0217;
+}
+.povt{
+	text-align: center;
+	bottom: 50px;
+	color: rgba(0,0,0,0.6);
+    text-shadow: 2px 8px 6px rgba(0,0,0,0.2),
+                 0px -5px 35px rgba(255,255,255,0.3);
+	font-size: 40px;
+	font-family:  Geneva;
+}
+nav{
+	position: absolute;
+	left: 1050px;
+  display: inline;
+}
+nav li {
+        border-left: 10px solid black;
+        border-bottom: 1px solid pink;
+        list-style-type: none;
+        display: inline;
+      }
+      nav a {
+        background-color: #4e5fcc;
+        color: white;
+        padding: 10px;
+        font-family: Gabriola;
+        font-weight: bold;
+        border-left: 5px solid #33ADFF;
+        display: inline;
+    }
+    img{
+    	 text-shadow: 2px 8px 6px rgba(0,0,0,0.2),
+                 0px -5px 35px rgba(255,255,255,0.3);
+    }
